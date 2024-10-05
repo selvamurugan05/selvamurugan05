@@ -1,8 +1,7 @@
-## Hi there 👋 It's me Sundarraj G
+## Hi there 👋 It's me Selva Murugan K
 
 Pre Final Year Student @ P.S.R Engineering College
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://sundarg1502.github.io/sundarraj/)                                                 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                            
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in Zoho
