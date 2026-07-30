@@ -2,9 +2,8 @@
 
 Pre Final Year Student @ P.S.R Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                            
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in Zoho
+- 🌱 I’m currently learning Data Analytics
+- 👯 I’m looking to collaborate on Java and Data Analytics
 - 💬 Ask me about Tech
 - 📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com)
 - 😄 Pronouns: Techie
